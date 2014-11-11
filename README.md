@@ -1,10 +1,11 @@
+# Istruzioni per la configurazione in locale
 <ol>
-<li> Download del pacchetto drupalday2014</li>
+<li> Download del repository in formato zip</li>
 <li>Scompattare l'archivio</li>
-<li>Download e installazione acquia dev desktop2 </li>
+<li>Download e installazione acquia dev desktop2 a questo [indirizzo] (https://www.acquia.com/downloads) </li>
 <li>Aprire la finestra “Import local Drupal Site” e configurare:
 	<ol>
-	<li> “Local codebase folder” -> la cartella code -> all’interno del archivio scompattato è presente la carella code con i files del sito</li>
+	<li> “Local codebase folder”: -> la cartella code -> all’interno del archivio scompattato è presente la carella code con i files del sito</li>
 	<li>
 	“Database” -> “Start with MYSQL database dump file” -> all’interno della cartella db trovate il file .sql da importare</li>
 	</ol>
