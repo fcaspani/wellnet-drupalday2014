@@ -3,7 +3,7 @@
 <ol>
 <li> Download del repository in formato zip</li>
 <li>Scompattare l'archivio</li>
-<li>Download e installazione acquia dev desktop2 a questo [indirizzo](https://www.acquia.com/downloads "Title") </li>
+<li>Download e installazione acquia dev desktop2 a questo [indirizzo](https://www.acquia.com/downloads/ "indirizzo") </li>
 <li>Aprire la finestra “Import local Drupal Site” e configurare:
 	<ol>
 	<li> “Local codebase folder”: -> la cartella code -> all’interno del archivio scompattato è presente la carella code con i files del sito</li>
