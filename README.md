@@ -12,7 +12,8 @@
 <li> Cliccare su OK</li>
 <li>Per accedere al sito, dalla schermata principale della apllicazione cliccare sul link relativo a “Local code”</li>
 <li> Credenziali per accedere all'area amministrativa :
-		username : admin
+		<br />
+		username : admin <br />
 		password:  admin
 </li>
 </ol>
